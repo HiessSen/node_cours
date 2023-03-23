@@ -1,0 +1,37 @@
+[
+  {
+    "id":1,
+    "name":"Parking1",
+    "place":"Paris"
+  },
+  {
+    "id":2,
+    "name":"Parking2",
+    "place":"Marseille"
+  },
+  {
+    "id":3,
+    "name":"Parking3",
+    "place":"Vierzon"
+  },
+  {
+    "id":4,
+    "name":"Parking4",
+    "place":"VladivostokMaGueule"
+  },
+  {
+    "id":5,
+    "name":"Parking5",
+    "place":"Nantes"
+  },
+  {
+    "id":6,
+    "name":"Parking6",
+    "place":"Lyon"
+  },
+  {
+    "id":7,
+    "name":"Parking7",
+    "place":"Toulouse"
+  }
+]
